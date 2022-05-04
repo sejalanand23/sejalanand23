@@ -1,7 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My name is Sejal Anand.
----
+
 Connect with me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sejal-anand/)
----
 
 <!--
 **sejalanand23/sejalanand23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
