@@ -6,8 +6,7 @@ Connect with me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](h
 
 📄 My Blog Articles
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- https://www.analyticsvidhya.com/blog/2021/04/from-scratch-to-a-story-introduction-to-tableau/ 
 
 ---
 
