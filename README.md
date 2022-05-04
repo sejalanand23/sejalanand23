@@ -1,6 +1,5 @@
 ### Hi there 👋 My name is Sejal Anand.
---
-Connect with me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sejal-anand/)
+- Connect with me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sejal-anand/)
 --
 
 <!--
