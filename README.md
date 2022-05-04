@@ -2,6 +2,16 @@
 
 Connect with me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sejal-anand/)
 
+---
+
+📄 My Blog Articles
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+
 <!--
 **sejalanand23/sejalanand23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
