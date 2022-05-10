@@ -1,4 +1,4 @@
-### Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My name is Sejal Anand.
+## Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My name is Sejal Anand.
 
 - 😄 Pronouns: she/her 
 - 👩‍🎓 Currently studying Data Science at Indian Institute of Technology, Madras
@@ -8,7 +8,7 @@
 
 💻 My Projects
 - ### [Sales Data Analysis](https://public.tableau.com/app/profile/sejal.anand/viz/shared/SF5HZNJY9) 
-Collected primary data from a Sole Proprietor of a cycle parts import/export business and visualised and analysed the data using Tableau applying concepts studied in Business Data Management course.
+  Collected primary data from a Sole Proprietor of a cycle parts import/export business and visualised and analysed the data using Tableau applying concepts studied in Business Data Management course.
 ---
 ✍️ My Blog Articles
 
