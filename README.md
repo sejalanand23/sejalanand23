@@ -3,10 +3,20 @@
 Connect with me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sejal-anand/)
 
 ---
-
+😄 Pronouns: she/her
+👩‍🎓 Currently studying Data Science at Indian Institute of Technology, Madras
+---
+💻 My Projects
+#### Sales Data Analysis
+Link to Project: https://public.tableau.com/app/profile/sejal.anand/viz/shared/SF5HZNJY9
+Description: Collected primary data from a Sole Proprietor of a cycle parts import/export business and visualised and analysed the data using Tableau applying concepts studied in Business Data Management course.
+---
 📄 My Blog Articles
 
 - https://www.analyticsvidhya.com/blog/2021/04/from-scratch-to-a-story-introduction-to-tableau/ 
+- https://www.analyticsvidhya.com/blog/2021/01/exploratory-data-analysis-on-nyc-taxi-trip-duration-dataset/
+- https://www.analyticsvidhya.com/blog/2021/03/quick-guide-to-ai-and-ml-universe-for-business-leaders/
+- https://www.analyticsvidhya.com/blog/2020/11/manipulating-sql-from-python/
 
 ---
 
