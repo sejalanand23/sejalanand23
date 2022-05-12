@@ -5,10 +5,10 @@ on:
   schedule:
     # Runs every minute
     - cron: "* * * * *"
-
+      
 jobs:
   update-readme:
-    name: Update todoist stats
+    name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
