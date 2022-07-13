@@ -19,10 +19,7 @@
 - [Manipulating SQL from Python](https://www.analyticsvidhya.com/blog/2020/11/manipulating-sql-from-python/)
 
 ---
-Todoist Stats
 
-<!-- TODO-IST:START -->
-<!-- TODO-IST:END -->
 
 <!--
 **sejalanand23/sejalanand23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
