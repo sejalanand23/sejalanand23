@@ -12,6 +12,7 @@
 ---
 ✍️ My Blog Articles
 
+- [Distillation of Richard Ngo’s AGI Safety from First Principles](https://www.analyticsvidhya.com/blog/2022/06/distillation-of-richard-ngos-artificial-general-intelligence-safety/)
 - [From Scratch to a Story: Introduction to Tableau](https://www.analyticsvidhya.com/blog/2021/04/from-scratch-to-a-story-introduction-to-tableau/) 
 - [Exploratory Data Analysis on NYC Taxi Trip Duration Dataset](https://www.analyticsvidhya.com/blog/2021/01/exploratory-data-analysis-on-nyc-taxi-trip-duration-dataset/)
 - [Quick guide to AI and ML universe for Business Leaders](https://www.analyticsvidhya.com/blog/2021/03/quick-guide-to-ai-and-ml-universe-for-business-leaders/)
