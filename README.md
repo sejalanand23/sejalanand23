@@ -7,8 +7,22 @@
 ---
 
 💻 My Projects
+
+- ### [Exploratory Data Analysis on NYC Taxi Trip Duration Dataset](https://github.com/sejalanand23/Exploratory-Data-Analysis-on-NYC-Taxi-Trip-Duration-Dataset)
+  Performed Exploratory Data Analysis using Python on the NYC Taxi Trip Duration Dataset
+
 - ### [Sales Data Analysis](https://public.tableau.com/app/profile/sejal.anand/viz/shared/SF5HZNJY9) 
   Collected primary data from a Sole Proprietor of a cycle parts import/export business and visualised and analysed the data using Tableau applying concepts studied in Business Data Management course.
+  
+- ### [Food Forecasting Analysis using Tableau](https://public.tableau.com/app/profile/sejal.anand/viz/DemandForecasting_16079589623250/DemandStoryboard)
+  Completed this project as a capstone project of Analytics Vidhya's Tableau course
+  
+- ### [EDA and Hypothesis Testing on Retail Demand Dataset](https://github.com/sejalanand23/Hypothesis-Testing-on-Retail-Demand-Dataset)
+  Tested a few hypotheses using EDA on the retail demand dataset
+  
+- ### [Web-based Flashcard Application](https://github.com/sejalanand23/Flashcard-Application)
+  Completed this project as a part of Modern Application Development-II Course. Designed and developed a flashcard application using Python for backend and  VueJS for frontend.
+  
 ---
 ✍️ My Blog Articles
 
