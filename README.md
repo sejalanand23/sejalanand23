@@ -20,7 +20,10 @@
 - ### [EDA and Hypothesis Testing on Retail Demand Dataset](https://github.com/sejalanand23/Hypothesis-Testing-on-Retail-Demand-Dataset)
   Tested a few hypotheses using EDA on the retail demand dataset
   
-- ### [Web-based Flashcard Application](https://github.com/sejalanand23/Flashcard-Application)
+- ### [Web-based Flashcard Application Ver1](https://github.com/sejalanand23/Flashcard-Application-V1)
+  Completed this project as a part of Modern Application Development-I Course. Designed and developed a flashcard application using Flask and HTML.
+
+- ### [Web-based Flashcard Application Ver2](https://github.com/sejalanand23/Flashcard-Application)
   Completed this project as a part of Modern Application Development-II Course. Designed and developed a flashcard application using Python for backend and  VueJS for frontend.
   
 ---
