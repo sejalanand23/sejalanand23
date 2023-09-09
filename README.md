@@ -1,6 +1,7 @@
 ## Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My name is Sejal Anand.
 
-- 😄 Pronouns: she/her 
+- 😄 Pronouns: she/her
+- 👩‍💼 Data Science Apprentice at [Syngenta](https://www.syngenta.co.in), Pune
 - 👩‍🎓 Currently studying Data Science at Indian Institute of Technology, Madras
 - 💬 Connect with me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sejal-anand/)
 
