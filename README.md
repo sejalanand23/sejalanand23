@@ -1,23 +1,26 @@
 ## Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My name is Sejal Anand.
 
 - 😄 Pronouns: she/her
-- 👩‍💼 Data Science Apprentice at [Syngenta](https://www.syngenta.co.in), Pune
-- 👩‍🎓 Currently studying Data Science at Indian Institute of Technology, Madras
+- 👩‍💼 Ex-Data Science Intern at [Syngenta](https://www.syngenta.co.in), Pune
+- 👩‍🎓 BS Data Science and Applications IITM'24
 - 💬 Connect with me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sejal-anand/)
 
 ---
 
 💻 My Projects
 
+- ### [Cross Sell Analysis](https://cross-sell-analysis.streamlit.app/)
+  Created a streamlit app that provides a Cross-Sell Analysis based on the association rules generated from the Groceries dataset. It allows users to select Antecedents and Consequents to visualize the intersection and provide insights into the presence of these items in the dataset.
+
+- ### [Kaggle Competition: Marketing Strategy - Personalised Offer](https://www.kaggle.com/competitions/marketing-strategy-personalised-offer/overview)
+  In this competition, I secured the 3rd position, ranking in the top 1%. The project focused on understanding user behaviours and preferences related to dining and takeout discounts/offers. These features were used to forecast whether individuals would accept tailored offers.
+
 - ### [Flex - Design Thinking Application](https://tinyurl.com/flex-user)
   Contributed to the creation of an innovative application prototype with a focus on user-centered design. Conducted user research to understand their needs and pain points. Followed the EAST phases of design thinking diligently. Developed wireframes for the app using tldraw and built the application prototype in Figma.
 
 - ### [FlavourFusion - Uniting Tastes and Tales](https://flavorfusion-data-visualization-journey.streamlit.app/)
-  (Capstone Project of course ‘Data Visualisation Design’)
+  (Secured the 2nd best Capstone Project of course ‘Data Visualisation Design’)
 A dynamic dashboard designed to uncover the intriguing world of college students' food choices. Through captivating data visualizations, various culinary topics are delved into.
-  
-- ### [Kaggle Competition: Marketing Strategy - Personalised Offer](https://www.kaggle.com/competitions/marketing-strategy-personalised-offer/overview)
-  In this marketing competition, I secured the 3rd position, ranking in the top 1%. The project focused on understanding user behaviours and preferences related to dining and takeout discounts/offers. These features were used to forecast whether individuals would accept tailored offers.
 
 - ### [Exploratory Data Analysis on NYC Taxi Trip Duration Dataset](https://github.com/sejalanand23/Exploratory-Data-Analysis-on-NYC-Taxi-Trip-Duration-Dataset)
   Performed Exploratory Data Analysis using Python on the NYC Taxi Trip Duration Dataset
